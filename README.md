@@ -1,4 +1,5 @@
 # Sumo
+![alt text](https://github.com/DanielAbner71/Sumo/blob/master/Img/Img_1.jpg)
 Requirements
 1.	LEGO MINDSTORMS EV3 Intelligent Brick
 2.	A microSD or microSDHC card (2GB or larger). microSDXC is not supported on the EV3. All cards larger than 32GB will not work with the EV3!
