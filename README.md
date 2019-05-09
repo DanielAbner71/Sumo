@@ -1,6 +1,6 @@
 # SumoBot
 ![alt text](https://github.com/DanielAbner71/Sumo/blob/master/Img/Img_1.jpg)
-#Requirements
+Requirements
 1.	LEGO MINDSTORMS EV3 Intelligent Brick
 2.	A microSD or microSDHC card (2GB or larger). microSDXC is not supported on the EV3. All cards larger than 32GB will not work with the EV3!
 3.	A computer with an adapter for the SD card. You will need administrator user permissions on this computer.
@@ -10,7 +10,7 @@ o	USB cable (the one that comes with the EV3)
 o	USB Wi-Fi dongle
 o	USB Ethernet (wired) dongle
 o	Bluetooth
-Step 1: Download the latest ev3dev #STRETCH image file
+Step 1: Download the latest ev3dev STRETCH image file
 •	http://oss.jfrog.org/list/oss-snapshot-local/org/ev3dev/brickstrap/ 
  
 •	UnZip the file “snapshot-ev3dev-stretch-ev3-generic-2019-04-07” the name maybe varies a little.
