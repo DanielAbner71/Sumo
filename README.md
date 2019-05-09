@@ -53,6 +53,14 @@ b.	Follow the steps inside of the Readme.md
 Install RPyC
 https://sites.google.com/site/ev3python/learn_ev3_python/rpyc
 
+Configure server.sh file to start the server on the EV3
+
+Connect it via bluetooth to the computer where the processing will take place
+
+Set the IP address in the file that will be run on the computer so that it sends the indications to the EV3
+
+Start the server on the EV3 and run the program on the computer
+
 Referencias 
 https://www.youtube.com/watch?v=TNXqizQTZhs
 https://sites.google.com/site/ev3devpython/
