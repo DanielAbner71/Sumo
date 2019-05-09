@@ -105,9 +105,9 @@ Start the server on the EV3 and run the program on the computer
 1. The actions of the sumobot are defined by means of functions (Found, Dodging, Searching, Attacking)
 2. The function is declared to run the multiple actions depending on the inputs referring to the MLPClassifier model
 
-##A reference to disaing a sumobot
+## A reference to design a sumobot
 
-Open Building Instructions.html locate on the main folder 
+Open "Building Instructions.html" in "Example Building Design" Folder
 
 ![alt text](https://github.com/DanielAbner71/Sumo/blob/master/Img/8.png)
 
