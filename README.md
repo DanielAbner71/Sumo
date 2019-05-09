@@ -1,4 +1,4 @@
-# Sumo
+# SumoBot
 ![alt text](https://github.com/DanielAbner71/Sumo/blob/master/Img/Img_1.jpg)
 Requirements
 1.	LEGO MINDSTORMS EV3 Intelligent Brick
