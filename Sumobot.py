@@ -127,8 +127,5 @@ def Main():
 
     t1.start()
     t2.start()
-
-Buscar()
-""" degrees = 500
-while degrees > 0:
-    Defender(50) """
+    
+Main()

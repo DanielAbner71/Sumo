@@ -203,11 +203,3 @@ def Main():
     t2.start()
 
 IA()
-""" degrees = 10
-while degrees > 0:
-    print(degrees)
-    Defender(50) """
-
-""" degrees = 0
-while degrees < maxDegrees:
-    Atacar(10) """
